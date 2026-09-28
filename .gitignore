@@ -1,0 +1,10 @@
+# 敏感凭证: 密钥与密文切勿提交
+.srun.key
+.srun_credentials.enc
+
+# 虚拟环境
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
